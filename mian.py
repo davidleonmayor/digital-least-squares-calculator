@@ -1,9 +1,11 @@
-def imputName() -> str:
-    return input("Enter your name: ")
+# import sys
+# print(sys.prefix)
 
-def toGreeter() -> str:
-    name = imputName()
-    return "Hello, " + name + "!"
+from view.MainFrame import MainFrame
+
+def main():
+    app = MainFrame()
+    app.mainloop()
 
 if __name__ == "__main__":
-    print(toGreeter())
+    main()
