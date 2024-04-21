@@ -13,7 +13,7 @@
   - [Contributor Behavior](#contributor-behavior)
   - [Setup Development Environment](#setup-development-environment)
   - [Pull Requests](#pull-requests)
-  <!-- - [License](#license) -->
+  - [License](#license)
 
 ## How to Contribute
 
@@ -54,4 +54,6 @@ git clone git@github.com:davidleonmayor/digital-least-squares-calculator.git
 3. Create a new branch for each feature, fix or improvement.
 4. Send a pull request from each feature branch to **main** branch.
 
-<!-- ### License -->
+### License
+
+[License](./LICENSE)
